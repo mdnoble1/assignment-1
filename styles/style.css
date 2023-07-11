@@ -234,4 +234,40 @@ body {
 .submit-btn {
   text-align: center;
   padding-top: 35px;
+  padding-bottom: 50px;
+}
+/* latest deal related styles  */
+.latest-deal {
+  background-image: url("../Flower Asset/Rectangle 9.png");
+  width: 1440px;
+  height: 449px;
+  margin-top: 130px;
+  margin-left: 240px;
+}
+.latest-deal-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  padding-top: 120px;
+}
+.latest-deal-description {
+  color: #27272799;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  padding-top: 16px;
+  padding-bottom: 48px;
+}
+.subscribe-section {
+  display: flex;
+  gap: 16px;
+  padding-left: 280px;
+}
+.subscribe-email {
+  width: 700px;
+  height: 64px;
+  border-radius: 8px;
+  border-style: none;
+  padding-left: 22px;
 }
