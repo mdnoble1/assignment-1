@@ -45,3 +45,66 @@ body {
   padding-top: 50px;
   padding-right: 240px;
 }
+/* feature related styles  */
+.feature-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 180px;
+}
+.feature-description {
+  color: #2b292999;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 24px 600px 48px 600px;
+}
+.flower {
+  display: flex;
+  text-align: center;
+  gap: 24px;
+  margin: 0px 240px 30px 240px;
+}
+.flower-a {
+  background-color: #f8e0e9;
+  width: 450px;
+  height: 523px;
+  border-radius: 300px 300px 0px 0px;
+}
+.flower-b {
+  background-color: #bddee0;
+  width: 450px;
+  height: 523px;
+  border-radius: 300px 300px 0px 0px;
+}
+.flower-c {
+  background-color: #e0f3ce;
+  width: 450px;
+  height: 523px;
+  border-radius: 300px 300px 0px 0px;
+}
+.flower-pink {
+  margin-top: 95px;
+}
+.flower-red {
+  margin-top: 100px;
+}
+.flower-yellow {
+  margin-top: 52px;
+}
+.flower-name {
+  display: flex;
+  margin-top: 24px;
+  color: #272727;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
+.pink {
+  margin-left: 360px;
+}
+.red {
+  margin: 0px 280px;
+}
