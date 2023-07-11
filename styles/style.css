@@ -7,3 +7,41 @@ body {
   font-family: "Open Sans", sans-serif;
   font-family: "Work Sans", sans-serif;
 }
+/* banner related styles  */
+.banner {
+  display: flex;
+  gap: 100px;
+  background-color: #e7d4d696;
+}
+.banner-item {
+  padding-top: 200px;
+  padding-left: 240px;
+}
+.banner-title {
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+  padding-bottom: 30px;
+}
+.banner-description {
+  color: #2b292999;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 30px;
+}
+.banner-btn {
+  width: 180px;
+  height: 70px;
+  background-color: #e55473;
+  border-radius: 8px;
+  border-style: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+.banner-picture {
+  width: 635px;
+  height: 800px;
+  padding-top: 50px;
+  padding-right: 240px;
+}
