@@ -4,8 +4,6 @@
 }
 body {
   font-family: "Lato", sans-serif;
-  font-family: "Open Sans", sans-serif;
-  font-family: "Work Sans", sans-serif;
 }
 .primary-btn {
   width: 180px;
@@ -108,7 +106,7 @@ body {
   margin-left: 360px;
 }
 .red {
-  margin: 0px 280px;
+  margin: 0px 295px;
 }
 
 /* delivery related styles  */
@@ -229,7 +227,7 @@ body {
 .favourite-checkbox {
   display: flex;
   gap: 300px;
-  padding-left: 460px;
+  padding-left: 468px;
   padding-top: 30px;
 }
 .checkbox-title {
