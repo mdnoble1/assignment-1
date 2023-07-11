@@ -108,3 +108,33 @@ body {
 .red {
   margin: 0px 280px;
 }
+/* delivery related styles  */
+.delivery {
+  display: flex;
+  /* gap: 100px; */
+  background-color: #e7e2e2;
+  width: 1398px;
+  height: 280px;
+  margin: 120px 240px 0px 240px;
+  border-radius: 8px;
+}
+.delivery-man {
+  padding-top: 80px;
+  padding-left: 280px;
+}
+.bouquet {
+  padding-top: 80px;
+  padding-left: 220px;
+}
+.support {
+  padding-top: 80px;
+  padding-left: 170px;
+}
+.delivery-info {
+  color: #333333cc;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  padding-top: 24px;
+  padding-left: 100px;
+}
