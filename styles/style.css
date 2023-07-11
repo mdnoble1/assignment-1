@@ -21,6 +21,7 @@ body {
   display: flex;
   gap: 100px;
   background-color: #e7d4d696;
+  width: 1920px;
 }
 .banner-item {
   padding-top: 200px;
@@ -46,6 +47,9 @@ body {
 }
 
 /* feature related styles  */
+.feature {
+  width: 1920px;
+}
 .feature-title {
   color: #272727;
   text-align: center;
@@ -174,6 +178,9 @@ body {
 }
 
 /* instagram section related styles  */
+.insta-section {
+  width: 1920px;
+}
 .insta-title {
   color: #272727;
   text-align: center;
@@ -198,6 +205,7 @@ body {
 .favourite-flower {
   background-color: #e9e6e696;
   margin-top: 120px;
+  width: 1920px;
 }
 .favourite-title {
   color: #080808;
@@ -271,7 +279,7 @@ body {
 }
 .subscribe-email {
   width: 700px;
-  height: 64px;
+  height: 67px;
   border-radius: 8px;
   border-style: none;
   padding-left: 22px;
@@ -281,6 +289,7 @@ body {
 .footer-section {
   background-color: #111010;
   margin-top: 130px;
+  width: 1920px;
   height: 450px;
 }
 .footer-heading {
