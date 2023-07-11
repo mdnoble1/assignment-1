@@ -296,3 +296,10 @@ body {
   font-weight: 400;
   padding: 24px 600px 32px 600px;
 }
+.footer-ending {
+  color: #f0ecec66;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 130px;
+}
