@@ -17,6 +17,7 @@ body {
   font-size: 20px;
   font-weight: 700;
 }
+
 /* banner related styles  */
 .banner {
   display: flex;
@@ -45,6 +46,7 @@ body {
   padding-top: 50px;
   padding-right: 240px;
 }
+
 /* feature related styles  */
 .feature-title {
   color: #272727;
@@ -108,6 +110,7 @@ body {
 .red {
   margin: 0px 280px;
 }
+
 /* delivery related styles  */
 .delivery {
   display: flex;
@@ -138,6 +141,7 @@ body {
   padding-top: 24px;
   padding-left: 100px;
 }
+
 /* hot deal related styles  */
 .hot-deal {
   display: flex;
@@ -170,6 +174,7 @@ body {
 .deal-picture {
   padding: 100px;
 }
+
 /* instagram section related styles  */
 .insta-title {
   color: #272727;
@@ -190,6 +195,7 @@ body {
   gap: 24px;
   margin-left: 240px;
 }
+
 /* what do you like section related styles  */
 .favourite-flower {
   background-color: #e9e6e696;
@@ -236,6 +242,7 @@ body {
   padding-top: 35px;
   padding-bottom: 50px;
 }
+
 /* latest deal related styles  */
 .latest-deal {
   background-image: url("../assets/Rectangle\ 9.png");
@@ -271,6 +278,7 @@ body {
   border-style: none;
   padding-left: 22px;
 }
+
 /* footer related styles  */
 .footer-section {
   background-color: #111010;
