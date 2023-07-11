@@ -176,6 +176,9 @@ body {
 .deal-picture {
   padding: 100px;
 }
+#sign-up-btn {
+  margin-left: 170px;
+}
 
 /* instagram section related styles  */
 .insta-section {
