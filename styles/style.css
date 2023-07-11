@@ -191,12 +191,16 @@ body {
   margin-left: 240px;
 }
 /* what do you like section related styles  */
+.favourite-flower {
+  background-color: #e9e6e696;
+  margin-top: 120px;
+}
 .favourite-title {
   color: #080808;
   text-align: center;
   font-size: 40px;
   font-weight: 800;
-  margin-top: 120px;
+  padding-top: 35px;
 }
 .tulip {
   width: 200px;
@@ -209,4 +213,25 @@ body {
 .rose {
   width: 200px;
   height: 200px;
+}
+.favourite-flower-picture {
+  display: flex;
+  gap: 200px;
+  padding-left: 450px;
+  padding-top: 35px;
+}
+.favourite-checkbox {
+  display: flex;
+  gap: 300px;
+  padding-left: 460px;
+  padding-top: 30px;
+}
+.checkbox-title {
+  color: #272727;
+  font-size: 24px;
+  font-weight: 600;
+}
+.submit-btn {
+  text-align: center;
+  padding-top: 35px;
 }
